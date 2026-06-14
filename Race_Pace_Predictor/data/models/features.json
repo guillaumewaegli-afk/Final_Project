@@ -1,0 +1,24 @@
+{
+  "features": [
+    "distance_km",
+    "eq_distance_km",
+    "elevation_m",
+    "elevation_per_km",
+    "is_trail",
+    "month",
+    "riegel_factor",
+    "difficulty_index",
+    "log_eq_distance",
+    "relative_elevation",
+    "ATL",
+    "CTL",
+    "TSB",
+    "load_7d",
+    "load_28d",
+    "rest_days",
+    "VO2max",
+    "training_load"
+  ],
+  "model": "XGBoost",
+  "target": "duration_s"
+}

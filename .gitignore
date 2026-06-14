@@ -3,4 +3,5 @@
 .DS_Store
 *.pkl
 __pycache__/
-data/
+data/garth_tokens/
+data/raw/details/
