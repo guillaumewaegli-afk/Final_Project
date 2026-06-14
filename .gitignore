@@ -3,5 +3,5 @@
 .DS_Store
 *.pkl
 __pycache__/
-data/garth_tokens/
-data/raw/details/
+Race_Pace_Predictor/data/garth_tokens/
+Race_Pace_Predictor/data/raw/details/
